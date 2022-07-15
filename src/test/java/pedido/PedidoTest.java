@@ -1,10 +1,7 @@
 package pedido;
 
 import ingredientes.*;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
+import org.junit.jupiter.api.*;
 import produto.Shake;
 import produto.TipoTamanho;
 
